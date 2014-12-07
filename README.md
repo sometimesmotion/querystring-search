@@ -5,8 +5,7 @@ Simple project for a search box plugin
 
 #This is a very basic program, posted here purely to learn how to use Github
 
-##If you are interested in working with this code, feel free- there really isn't 
-much for me to 'license', but it is licensed under a Free BSD License:
+##If you are interested in working with this code, feel free- there really isn't much for me to 'license', but it is licensed under a Free BSD License:
 
 Copyright (c) 2014, Tim Miller
 All rights reserved.
